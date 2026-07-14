@@ -1,3 +1,4 @@
+package Recursion_questions;
 import java.util.Scanner;
 class repetition{
     void repetition_me(int x,int n){

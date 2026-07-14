@@ -1,3 +1,4 @@
+package Recursion_questions;
 import java.util.Scanner;
 class backtracking{
     void backtrack(int n,int x){

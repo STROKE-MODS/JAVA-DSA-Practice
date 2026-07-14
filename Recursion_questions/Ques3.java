@@ -1,3 +1,4 @@
+package Recursion_questions;
 import java.util.Scanner;
 class recursive{
     void From0ToN(int x,int d){
